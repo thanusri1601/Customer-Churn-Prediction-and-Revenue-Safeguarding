@@ -10,9 +10,7 @@ This repository contains the code and analysis for predicting customer churn and
 - [Modeling Techniques](#modeling-techniques)
 - [Results](#results)
 - [Requirements](#requirements)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 Customer churn, or the loss of clients or customers, is a critical issue that impacts a company’s profitability. This project predicts customer churn by analyzing customer behavior patterns, enabling businesses to take proactive measures to retain valuable customers.
